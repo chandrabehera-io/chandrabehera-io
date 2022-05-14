@@ -1,4 +1,4 @@
-[![MasterHead](https://twitter.com/ImChandraBehera/header_photo)](https://chandrabehera.com/)
+[![MasterHead](https://pbs.twimg.com/profile_banners/1128532457618198529/1574873656/1500x500)](https://chandrabehera.com/)
 <h1 align="center">Hi 👋, I'm Chandra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
